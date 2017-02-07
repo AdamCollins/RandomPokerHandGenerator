@@ -1,1 +1,2 @@
 # RandomPokerHandGenerator
+Uses JavaFX library
